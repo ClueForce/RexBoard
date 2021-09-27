@@ -1,2 +1,4 @@
 # RexBoard
-Best Scoreboard plugin but easy to use
+This project is maintenance :3 
+
+I will release soon
